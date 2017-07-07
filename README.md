@@ -1,4 +1,4 @@
-# ionic-hybrid-map
+# ionic-hybrid-google-maps
 
 Google Maps component for Ionic Apps that works on device and web via same API.
 Native map on device, JS map on web.
